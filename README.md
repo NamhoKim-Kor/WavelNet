@@ -8,5 +8,7 @@ By analyzing the optimized scale factors and corresponding pseudo-freqeuncies, i
 
 This project releases a source code of a WaveletConv layer. It is based on PyTorch, and can be used as 'torch.nn.Conv1d'.
 
+Please note that this project is based on the environment of _Google Colab Pro+_. I recommend to check wehther the versions required packages of your environment are compatible with those of _Google Colab Pro+_.
+
 # Reference
 [1] Namho Kim et al., "_WavelNet_: A novel convolutional neural network architecture for arrhythmia classification from electrocardiogram," _Computer Methods and Programs in Biomedicine_, vol. 231, 107375, Apr. 2023. [DOI: https://doi.org/10.1016/j.cmpb.2023.107375]
